@@ -1,0 +1,4 @@
+name: WatchCraft
+version: 1.0
+main: com.zafcoding.watchcraft.bukkit.WatchCraft
+commands:
