@@ -21,7 +21,7 @@ import com.zafcoding.watchcraft.bukkit.background.WatchCraftLisitner;
 
 public class WatchCraft extends JavaPlugin {
 
-	double version = 1.0;
+	double version = 1.5;
 	static WatchCraft instance;
 	static KeyPair keypair;
 	String addres = Bukkit.getIp();
